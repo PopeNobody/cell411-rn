@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "cell411-rn",
+  "version": "1.0.0",
+  "description": "Cell411 For Browser",
+  "main": "index.mjs",
+  "repository": "https://github.com/PopeNobody/cell411-rn.git",
+  "author": "dev@copblock.app",
+  "license": "MIT",
+  "private": false
+}
